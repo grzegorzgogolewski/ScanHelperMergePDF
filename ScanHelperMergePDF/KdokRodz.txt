@@ -1,0 +1,39 @@
+﻿1;protokół;_prt.;nie
+2;mapa;_mp.;nie
+3;inny;_inn.;tak
+4;dowód doręczenia zawiadomienia;_zdz.;tak
+5;wykaz zmian danych ewid, arkusz danych ewid;_wzd.;tak
+6;zaświadczenie;_zasw.;tak
+7;wniosek;_wniosek.;nie
+8;zawiadomienie o nadaniu numeru porządkowego;_zaw-adr.;nie
+9;plan zagospodarowania przestrzennego;_pz.;tak
+10;pełnomocnictwo;_pełn.;nie
+11;oświadczenie;_osw.;nie
+12;decyzja o warunkach zabudowy;_dec_wz.;nie
+13;dec. o wył. z prod. rolnej;_dec_r.;nie
+14;dokumentacja techniczna;_dt.;tak
+15;postanowienie;_pst.;tak
+16;badania ksiąg wieczystych;_bkw.;tak
+17;wypisy z rejestru gruntów;_wsr.;tak
+18;akt własności ziemi;_awz.;tak
+19;zawiadomienie z wydziału KW;_dzkw.;tak
+20;zawiadomienie z wydziału KW_2;_dzkw_2.;tak
+21;zawiadomienie z wydziału KW_3;_dzkw_3.;tak
+22;decyzja administracyjna;_dec_a.;tak
+23;decyzja administracyjna_2;_dec_a_2.;tak
+24;decyzja administracyjna_3;_dec_a_3.;tak
+25;akt notarialny;_akt_not.;tak
+26;akt notarialny_2;_akt_not_2.;tak
+27;akt notarialny_3;_akt_not_3.;tak
+28;umowa dzierżawy;_udzw.;tak
+29;operat szacunkowy;_ope_sz.;tak
+30;umowa przekazania;_up.;tak
+31;decyzja administracyjna_4;_dec_a_4.;tak
+32;decyzja administracyjna_5;_dec_a_5.;tak
+33;decyzja administracyjna_6;_dec_a_6.;tak
+34;zawiadomienie z wydziału KW_4;_dzkw_4.;tak
+35;zawiadomienie z wydziału KW_5;_dzkw_5.;tak
+36;zawiadomienie z wydziału KW_6;_dzkw_6.;tak
+37;akt notarialny_4;_akt_not_4.;tak
+38;akt notarialny_5;_akt_not_5.;tak
+39;akt notarialny_6;_akt_not_6.;tak
